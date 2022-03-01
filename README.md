@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Matys98 (Michal)
 - 👀 I’m interested in Devops and Python
-- 🌱 I’m currently learning AWS Certified Cloud Architect 
-- 💞️ I’m looking to collaborate on ... (IDK)
+- 🌱 I’m currently learning AWS Certified SysOps Administrator
+- 💞️ I’m looking to collaborate on AWS projects
 - 📫 How to reach me on [Linkedin](https://www.linkedin.com/in/michał-matysiak-8389181aa/)
 
 <!---
